@@ -15,7 +15,7 @@ Clone the project
 Run the docker-compose
 
 ```bash
-  docker-composer build
+  docker-compose build
   docker-compose up -d
 ```
 
