@@ -56,6 +56,7 @@ This docker-compose provides you :
     - Composer
     - Symfony CLI
     - and some other php extentions
+    - nodejs, npm, yarn
 - postgres:13-alpine
 - mailcatcher
 
