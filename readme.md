@@ -1,9 +1,9 @@
 
-# Symfony 6 + PHP 8.0.13 with Docker
+# Symfony 6 + PHP 8.1.0 with Docker
 
 **ONLY for DEV, not for production**
 
-A very simple Docker-compose to discover Symfony 6 with PHP 8.0.13 in 5 minutes
+A very simple Docker-compose to discover Symfony 6 with PHP 8.1.0 in 5 minutes
 ## Run Locally
 
 Clone the project
@@ -52,7 +52,7 @@ If you need a database, modify the .env file like this example:
 
 This docker-compose provides you :
 
-- PHP-8.0.13-cli (Debian)
+- PHP-8.1.0-cli (Debian)
     - Composer
     - Symfony CLI
     - and some other php extentions
