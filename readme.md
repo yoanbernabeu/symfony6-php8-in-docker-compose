@@ -1,9 +1,9 @@
-
 # Symfony 6 + PHP 8.0.13 with Docker
 
 **ONLY for DEV, not for production**
 
-A very simple Docker-compose to discover Symfony 6 with PHP 8.0.13 in 5 minutes
+A very simple Docker-compose to discover Symfony 6 with PHP 8.1.7 in 5 minutes
+
 ## Run Locally
 
 Clone the project
